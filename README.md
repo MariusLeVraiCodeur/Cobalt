@@ -25,3 +25,21 @@
 ## Installation (Torrent🌊)
 - Install torrent client([qbitorrent](https://www.qbittorrent.org/download), [utorrent](https://www.utorrent.com/), etc)
 - Open cobalt.torrent with torrent clients and install
+# Use
+## Run(Linux)
+- Launch the run.sh
+```bash
+  bash run.sh
+```
+## Run(Windows)
+- Launch main.pl
+```powershell
+  perl main.pl
+```
+if perl isn't install perl with
+```powershell
+  winget search perl
+```
+```powershell
+  winget install StrawberryPerl.StrawberryPerl
+```
