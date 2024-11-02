@@ -1,0 +1,6 @@
+Install this software with git version 2.43.0 or less
+
+Commands :
+
+Linux
+    -git clone https://github.com/MariusLeVraiCodeur/Cobalt
