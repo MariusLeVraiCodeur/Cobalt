@@ -10,7 +10,7 @@
 ```
 - Finally install Cobalt
 ```bash
-   git clone (https://github.com/MariusLeVraiCodeur/Cobalt)
+  git clone (https://github.com/MariusLeVraiCodeur/Cobalt)
 ```
 
 ## Installation (Windows💻)
