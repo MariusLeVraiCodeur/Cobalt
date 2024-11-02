@@ -9,7 +9,7 @@
     "comp" : "x64",
     "lang" : "Perl, JSON , YAML, bash",
     "lates update" : "02/11/2024",
-    "OS" : "Windows, Linux, MacOS, OpenBSD, FreeBSD, Solaris",
+    "OS" : "Windows, Linux",
     "base version" : "Perl 5, version 38, subversion 2 (v5.38.2) built for x86_64-linux-gnu-thread-multi(with 44 registered patches, see perl -V for more detail)",
     "requirements git version" : "git version 2.43.0"
 }
