@@ -1,15 +1,24 @@
-# Installation (Linux🐧)
-# 1.Install git with apt
+# Installation
+## Installation (Linux🐧)
+- Install git with apt
+```bash
   sudo apt-get install git
-# 2.Verify the latest version of git is installed
+```
+- Verify the latest version of git is installed
+```bash
   git --version
-# 3.Finally install Cobalt
-  git clone https://github.com/MariusLeVraiCodeur/Cobalt
+```
+- Finally install Cobalt
+```bash
+   git clone (https://github.com/MariusLeVraiCodeur/Cobalt)
+```
 
-# Installation (Windows💻)
-# 1.Install git with .exe on
+## Installation (Windows💻)
+- Install git with .exe on
+```bash
   https://git-scm.com/
-# 2.Do the installation and enter
+```
+- Do the installation and enter
+```bash
   git clone https://github.com/MariusLeVraiCodeur/Cobalt
-
-Thanks for those install Cobalt !
+```
