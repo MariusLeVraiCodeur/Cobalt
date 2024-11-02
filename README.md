@@ -22,3 +22,6 @@
 ```bash
   git clone https://github.com/MariusLeVraiCodeur/Cobalt
 ```
+## Installation (Torrent🌊)
+- Install torrent client([qbitorrent](https://www.qbittorrent.org/download), [utorrent](https://www.utorrent.com/), etc)
+- Open cobalt.torrent with torrent clients and install
